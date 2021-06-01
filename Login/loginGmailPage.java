@@ -1,3 +1,4 @@
+package Login;
 public class loginGmailPage implements loginMethod {
     @Override
     public void loginSimple(String id, String pass) {
